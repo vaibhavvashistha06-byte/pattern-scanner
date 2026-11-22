@@ -1,0 +1,6 @@
+group,trades,avg_net_ret_%,win_rate_%,profit_factor,sharpe,max_drawdown_%
+buy every day (baseline),22277,-0.093,45.8,0.94,-0.71,-11.9
+model top 9%,2470,-0.237,44.3,0.85,1.63,-12.2
+"  model top, cluster 0",935,0.027,47.8,1.02,1.67,-15.5
+"  model top, cluster 1",485,-0.06,48.2,0.96,0.75,-12.5
+"  model top, cluster 2",1050,-0.553,39.3,0.63,-0.59,-14.8
